@@ -39,7 +39,7 @@ TDD is where you test a group or unit of code to see if it passes. I think this 
 - [ ] fork and clone this repository.
 - [ ] **CD into the folder** where you downloaded the repository.
 - [ ] run `yarn` or `npm i` to download all dependencies.
-- [ ] type `yarn test` or `npm test` to run the tests. The `test` script is already configured.
+- [ ] type `yarn test` or `npm test` to run the tests. The `test` script is already configured
 
 ## Minimum Viable Product
 
